@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 780 >>
+stream
+BT
+/F1 11 Tf
+15 TL
+50 790 Td
+(Nimbus R2 'Kestrel' - Product Guide \(fictional product\)) Tj T*
+() Tj T*
+(What is the Kestrel?) Tj T*
+(The Kestrel is an indoor inventory drone for warehouses. It scans shelf barcodes and RFID) Tj T*
+(tags while flying a pre-planned route and syncs results to the Nimbus Cloud.) Tj T*
+() Tj T*
+(Battery and charging) Tj T*
+(The Kestrel flies for 38 minutes on one charge. A full recharge on the docking station) Tj T*
+(takes 55 minutes. The battery is rated for about 900 charge cycles before capacity drops) Tj T*
+(below 80%.) Tj T*
+() Tj T*
+(Pricing) Tj T*
+(The Kestrel costs 7,900 EUR per unit. The Nimbus Cloud subscription costs 149 EUR per) Tj T*
+(drone per month. Customers ordering 10 or more drones get a 12% discount on hardware.) Tj T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 758 >>
+stream
+BT
+/F1 11 Tf
+15 TL
+50 790 Td
+(Warranty) Tj T*
+(Hardware comes with a 2-year warranty. Damage caused by collisions is not covered unless) Tj T*
+(the customer bought the 'CrashCare' add-on \(19 EUR per drone per month\).) Tj T*
+() Tj T*
+(Troubleshooting: error code E-42) Tj T*
+(E-42 means the drone lost its positioning signal. Move the drone within 15 meters of an) Tj T*
+(anchor beacon and restart it. If E-42 persists, recalibrate the beacons from the Nimbus) Tj T*
+(Cloud dashboard under Settings > Beacons > Recalibrate.) Tj T*
+() Tj T*
+(Troubleshooting: error code E-17) Tj T*
+(E-17 means a propeller is blocked or damaged. Power off the drone, inspect all four) Tj T*
+(propellers and replace any cracked one. Spare propeller sets cost 39 EUR.) Tj T*
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000001148 00000 n 
+0000001274 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2083
+%%EOF

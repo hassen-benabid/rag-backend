@@ -1,0 +1,22 @@
+# --- Web framework ---
+fastapi
+uvicorn[standard]      # the ASGI server that runs the app
+pydantic-settings      # typed settings from .env
+python-multipart       # needed for file uploads (UploadFile)
+
+# --- ML: RAG (same stack as rag-project) ---
+langchain
+langchain-chroma
+langchain-text-splitters
+langchain-google-genai
+langchain-openai
+langchain-ollama
+chromadb
+pypdf
+
+# --- ML: classic model example ---
+scikit-learn
+
+# --- Testing ---
+pytest
+httpx                  # used by FastAPI's TestClient

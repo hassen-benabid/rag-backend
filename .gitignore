@@ -1,0 +1,10 @@
+# Secrets
+.env
+# Installed packages
+.venv/
+# Runtime data: uploaded PDFs and the vector database
+storage/
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
